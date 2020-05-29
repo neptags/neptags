@@ -1,3 +1,11 @@
+---
+layout: default
+title: Swift Codes
+nav_order: 1
+description: "Swift Codes for the banks in Nepal"
+permalink: /swift-codes-nepal
+---
+
 <PRE>
 NBOCNPKA	NEPAL CREDIT AND COMMERCE BANK LTD.	KATHMANDU	Nepal
 NBOCNPKANRD	NEPAL CREDIT AND COMMERCE BANK LTD.	KATHMANDU	Nepal
