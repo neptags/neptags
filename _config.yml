@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Neptags - A Nepal Archive
+title: Neptags Archive
 description: A tagged archive for information available on public domain or shared willingly
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://neptags.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -39,7 +39,7 @@ heading_anchors: true
 #    - "//github.com/pmarsceill/just-the-docs"
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "NEPTAGS"
+footer_content: "NEPTAGS - The NEPAL Archive"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
