@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Neptags - A Nepal Archive
 description: A tagged archive for information available on public domain or shared willingly
-baseurl: "/neptags" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://neptags.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
