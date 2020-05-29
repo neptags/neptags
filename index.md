@@ -12,3 +12,6 @@ DISCLAIMER : IF IN CASE YOU FIND ANY OF THE INFORMATION HERE COULD BE INAPPROPRI
 
 ANOTHER DISCLAIMER : THIS IS NOT WIKIPEDIA. ITS JUST VERY EASY TO DO ON GITHUB, THAN ON WIKIPEDIA :) 
 
+## Want to suggest something ? Something that needs to be included here ?
+Create an issue here  
+[https://github.com/neptags/neptags/issues](https://github.com/neptags/neptags/issues). Will try to see if we can include that content in the archive.
