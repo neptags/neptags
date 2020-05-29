@@ -4,6 +4,8 @@ title: Swift Codes
 description: "Swift Codes for the banks in Nepal"
 ---
 <table class="table">
+<thead><tr><th>SWIFT (BIC) Code</th><th>Bank</th><tr></thead>
+<tbody>
 <tr><td>ACDENPK1</td><td>ACE DEVELOPMENT BANK LIMITED</td></tr>
 <tr><td>ACDENPKA</td><td>ACE DEVELOPMENT BANK LIMITED</td></tr>
 <tr><td>ADBLNPK1</td><td>AGRICULTURAL DEVELOPMENT BANK LTD</td></tr>
@@ -72,4 +74,6 @@ description: "Swift Codes for the banks in Nepal"
 <tr><td>SRBLNPKA</td><td>SUNRISE BANK LIMITED</td></tr>
 <tr><td>TDBLNPK1</td><td>TOURISM DEVELOPMENT BANK LTD.</td></tr>
 <tr><td>TDBLNPKA</td><td>TOURISM DEVELOPMENT BANK LTD.</td></tr>
+</tbody>
 </table>
+
