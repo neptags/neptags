@@ -1,7 +1,6 @@
 ---
 title : Nepal Standard Industrial Classification (NSIC) Codes
 layout: default
-permalink: /government/ocr/nsic-codes
 ---
 
 
