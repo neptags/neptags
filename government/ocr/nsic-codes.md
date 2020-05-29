@@ -1,10 +1,13 @@
 ---
 title : Nepal Standard Industrial Classification (NSIC) Codes
+layout: default
+permalink: /government/ocr/nsic-codes
 ---
 
+
 Source : 
-http://nepalese.github.io/ocr-nsic-codes/
-http://ocr.gov.np
+[http://nepalese.github.io/ocr-nsic-codes/](http://nepalese.github.io/ocr-nsic-codes/)
+[http://ocr.gov.np](http://ocr.gov.np)
 
 <table class="table">
 <thead>
