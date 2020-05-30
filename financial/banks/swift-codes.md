@@ -4,7 +4,7 @@ title: Swift Codes
 description: "Swift Codes for the banks in Nepal"
 ---
 <table class="table">
-<thead><tr><th>SWIFT (BIC) Code</th><th>Bank</th><tr></thead>
+<thead><tr><th>SWIFT (BIC) Code</th><th>Bank</th></tr></thead>
 <tbody>
 <tr><td>ACDENPK1</td><td>ACE DEVELOPMENT BANK LIMITED</td></tr>
 <tr><td>ACDENPKA</td><td>ACE DEVELOPMENT BANK LIMITED</td></tr>
