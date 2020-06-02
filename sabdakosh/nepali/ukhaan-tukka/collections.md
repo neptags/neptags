@@ -161,9 +161,6 @@ ukhaan tukka
 
 ९) सुघरी स्वास्निको पोइ मोटाउछ , फोहोरी स्वास्निको कुकुर मोटाउछ !
 
-
-nepali ukhan tukka with answers
-
 १०) सिपाहिको काम छैन, जर्नेलको मान !
 
 ११) सालीको आशमा भिनाजुको बनिबास !
@@ -195,9 +192,6 @@ nepali ukhan tukka with answers
 २४) लालमायाको त पत्तै छैन, खस्रे कामिको खसखस !
 
 २५) लौरो टेके भर हुन्छ, कान्छी ल्याए घर हुन्छ !
-
-
-nepali ukhan tukka sabaiko mukha mukha
 
 २६) लजालु बुहारी, असनको डेरा !
 
@@ -241,9 +235,6 @@ nepali ukhan tukka sabaiko mukha mukha
 
 ४६) बँदेल जति मोटायो उति मु** साँगुरो !
 
-
-nepali wukhan with meaning
-
 ४७) बालुवा निचरेर तेल आउदैन !
 
 ४८) पाँच पैसाको ल्वांग छैन,दस पैसाको स्वांग !
@@ -275,9 +266,6 @@ nepali wukhan with meaning
 ६१) दाजुको चिउरा, भाउजुको खटन !
 
 ६२) थैली बलियो भए साथीको के कमि !
-
-
-funny nepali idioms
 
 ६३) तालिममा पसिना बगाउनेले लडाईंमा रगत बगाउन पर्दैन !
 
@@ -331,9 +319,6 @@ funny nepali idioms
 
 ८८) छोरीको बैंस बाबुले होइन, अरुले देख्छ !
 
-
-ukhane in nepali
-
 ८९) छाडेको पोइ र हिडेको स्वास्नीको नाम कसले लिन्छ !
 
 ९०) छालो जाला तर कालो जादैन !
@@ -359,7 +344,6 @@ ukhane in nepali
 १००) गधाको भारी नपुगी उठ्दैन !
 
 १०१) गोठालोको बुद्धि भैसीको थुनमा !
-
 
 १) हात्ती चढिसकेको मान्छेले गधा चढ्न के रुचाउला !
 
@@ -737,60 +721,10 @@ ukhane in nepali
 
 ८७) अर्काको बारीमा साग छ, मुटु मिचेर के लाग्छ !
 
-nepali ukhan tukka idioms and proverbsरमाइलो 
-रमाइला १०१ नेपाली उखान टुक्का : भाग २ । 101 NEPALI “UKHAN TUKKA” : PART 2
-2 YEARS AGO ROCHAK JANKARINEPALI IDIOMS, NEPALI PROVERBS, NEPALI UKHAN TUKKA, NEPALI उखान
-PROMOTED CONTENTMgid
-
-10 Instagram Girls Women Obsess Over
-HerBeauty
-
-7 Things A Man Will Do Only If He Really Loves You
-HerBeauty
-
-It's Easy To See What Made These 8 Sexy Celebs Famous
-Brainberries
-
-Kristen Stewart Just Makes Everything Look Awkward
-HerBeauty
-
-What Secrets Your Face Shape Reveal About Your Personality
-HerBeauty
-
-Awkward Kid Stars Who Became Smoking Hot Adults
-HerBeauty
-नेपाली साहित्य तथा भाषाको इतिहास मा उखान टुक्काको धेरै पुरानो उपस्थिति देखिन्छ। हामीले बोल्ने कुरामा अझ धेरै गहनता थपेर छोटो सैलिमा नै आफ्नो कुराको अर्थ प्रस्तुत गर्नको लागि उखान टुक्का आहिले पनि भरपर्दो माध्यम हो भन्दा फरक नपर्ला।
-
-पछिल्लो पुस्तामा उखान टुक्काको प्रयोग केहि घट्दै गएको महसुस गरेर, नेपाली साहित्यको एउटा अतुल्यनिय क्षेत्र उखान टुक्कालाइ फेरी पुनर्जीवन दिन सकिन्छ कि भन्ने प्रयास स्वरुप नै हामीले भाग १ पनि लेखेका थियौ।
-
-यसैको निरन्तरताको रुप मा यहाँ अरु १०१ अझै धेरै रमाइला उखान टुक्का हरु प्रस्तुत गरिएको छ।
-
-अन्तिममा बोनस आधुनिक तथा परिमार्जित उखान टुक्का हरु पनि नछुटाउनु होला !
-
-COLLECTION OF 101 NEPALI “UKHAN TUKKA” : PART 2
 १) पटुकामा रुपैया, बटुकामा भात !
 
 २) परबाट भिनाजु आए, तँ जान्छेसकी मा जाउँ !
 
-PROMOTED CONTENTMgid
-
-Getting A Job In The USA Might Be Easier Than You Think
-Jobs In USA
-
-10 Instagram Girls Women Obsess Over
-HerBeauty
-
-7 Things A Man Will Do Only If He Really Loves You
-HerBeauty
-
-It's Easy To See What Made These 8 Sexy Celebs Famous
-Brainberries
-
-Kristen Stewart Just Makes Everything Look Awkward
-HerBeauty
-
-What Secrets Your Face Shape Reveal About Your Personality
-HerBeauty
 ३) नभएकी स्वास्नी कस्ती कस्ती, भएकी स्वास्नी सस्ती !
 
 ४) न धुँदा जाने, न रुँदा जाने !
@@ -806,8 +740,6 @@ HerBeauty
 ९) नकचरा को ओखति छैन !
 
 १०) पुँजी न सुजि, उचाल मु** !
-
-modified nepali ukhan tukka
 
 ११) धान पाके निहुरन्छ, कोदो पाके ठडिन्छ !
 
@@ -831,7 +763,6 @@ modified nepali ukhan tukka
 
 २१) तैं रानी मै रानी, को भर्ला कुवाको पानी !
 
-यो पनि पढ्नुहोस् :  ध्रुब प्रसाद अ्म्गाईको शब्दमा रहेको "न भुल्ने सक्ने" सार्वजनिक
 २२) तेरो पो धान छन्,कुट्यो खायो…आफ्ना त चामल छन्, कहिले निफन्नु कहिले केलाउनु !
 
 २३) तिर्थ न ब्रत, भुडी भर्त !
@@ -888,8 +819,6 @@ modified nepali ukhan tukka
 
 ४९) चाल नपाई जाल नहान्नु !
 
-latest nepali ukhan tukka 
-
 ५०) चकचके गोरुको चार ठाउँमा डाम, ठुलो माछो लड्यो समातेर खाम !
 
 ५१) घरमा चामल सकिएको दिन एकादशी, गोजीमा पैसो सकिएको दिन औंसी !
@@ -898,7 +827,6 @@ latest nepali ukhan tukka
 
 ५३) घरमा भुसाहा छैन, खल्तीमा चुरोट !
 
-यो पनि पढ्नुहोस् :  एक किसानले गाईलाई लगाईदिए आफ्नो श्रीमतीको ब्रा, कारण जान्नुहोस् ।
 ५४) घरै पोले पछि, खरानीको के पिर !
 
 ५५) घर न थर, पोइको रहर !
@@ -922,8 +850,6 @@ latest nepali ukhan tukka
 ६४) कागले कोइलिलाइ काले भन्छ !
 
 ६५) कसाइको आगाडी बोको रोएर के हुन्छ र !
-
-nepali ukhan tukka with meaning
 
 ६६) कपाल भन्दा टुपी छोटो !
 
@@ -969,7 +895,6 @@ nepali ukhan tukka with meaning
 
 ८७) अर्काको बारीमा साग छ, मुटु मिचेर के लाग्छ !
 
-यो पनि पढ्नुहोस् :  आज २०७५ साल कार्तिक १८ गते आइतबार, तदअनुसार नोभेम्बर ४, २०१८ – हेर्नुस आजको राशिफल
 ८८) अर्काको गहना लगाउनु, नाक कान दुखाउनु !
 
 ८९) अराएको काम र भराएको मानोले कति दिन चल्छ !
@@ -1015,6 +940,3 @@ nepali ukhan tukka with meaning
 ८) जसको एउटा स्मार्टफोन छैन, उसैको १० वटा फेसबुक आइडी !
 
 ९) स्वास्नीको आगाडी किम जोङ्ग पानी बिरालो !
-
-
-
