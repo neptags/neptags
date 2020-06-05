@@ -1,4 +1,5 @@
-ukhaan tukka
+# नेपाली उखान ‍ टुक्का
+
 - this is just a raw collection. 
 - @Todo: Structuring the items and tagging them as required.
 
