@@ -1,4 +1,8 @@
-# नेपाली उखान ‍ टुक्का
+---
+layout: default
+title: नेपाली उखान ‍ टुक्का
+description: "संकलित उखान टुक्काहरु"
+---
 
 - this is just a raw collection. 
 - @Todo: Structuring the items and tagging them as required.
